@@ -60,6 +60,22 @@ end
 
 puts x = add_them_up_rightly
 
+puts "Cuack 5".index("5")
+
+c=0
+while c < 10
+  c = c + 1
+  puts "Pedro"
+end
+
+puts c
+
+while c >= 1
+  puts "Pedro #{c}"
+  c = c - 1
+end
+
+
 =begin Ruby is the language that taught me to smile again
 from terminal:
 $ irb
